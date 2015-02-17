@@ -1,0 +1,111 @@
+"Cancer Sites"	"Cancer Sites Code"	"State"	"State Code"	"Year"	"Year Code"	Count
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2010"	"2010"	24915
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2010"	"2010"	2721
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2010"	"2010"	26455
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2010"	"2010"	14682
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2010"	"2010"	158067
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2010"	"2010"	21099
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2010"	"2010"	20329
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2010"	"2010"	5135
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2010"	"2010"	2889
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2010"	"2010"	105903
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2010"	"2010"	42450
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2010"	"2010"	6665
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2010"	"2010"	7301
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2010"	"2010"	64231
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2010"	"2010"	31821
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2010"	"2010"	17301
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2010"	"2010"	14338
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2010"	"2010"	25150
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2010"	"2010"	23341
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2010"	"2010"	8302
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2010"	"2010"	28247
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2010"	"2010"	35245
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2010"	"2010"	54424
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2010"	"2010"	26856
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2010"	"2010"	15201
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2010"	"2010"	30545
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2010"	"2010"	5541
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2010"	"2010"	8958
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2010"	"2010"	11558
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2010"	"2010"	7586
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2010"	"2010"	48039
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2010"	"2010"	8827
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2010"	"2010"	104999
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2010"	"2010"	48521
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2010"	"2010"	3502
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2010"	"2010"	59173
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2010"	"2010"	18366
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2010"	"2010"	19431
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2010"	"2010"	76433
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2010"	"2010"	5641
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2010"	"2010"	23926
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2010"	"2010"	4030
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2010"	"2010"	33390
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2010"	"2010"	96908
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2010"	"2010"	9325
+	"All Cancer Sites Combined"	"0"	"Vermont"	"50"	"2010"	"2010"	3593
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2010"	"2010"	35678
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2010"	"2010"	33899
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2010"	"2010"	11040
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2010"	"2010"	29775
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2010"	"2010"	2625
+"---"
+"Dataset: United States Cancer Statistics, 1999-2011 Incidence"
+"Query Parameters:"
+"Title:"
+"Age Group: 15-19 years, 20-24 years, 25-29 years, 30-34 years, 35-39 years, 40-44 years, 45-49 years, 50-54 years, 55-59 years,"
+"60-64 years , 65-69 years, 70-74 years, 75-79 years, 80-84 years, 85+ years"
+"Cancer Sites: All Cancer Sites Combined"
+"Ethnicity: All"
+"Race: All"
+"Sex: All"
+"State: Alabama (01), Alaska (02), Arizona (04), Arkansas (05), California (06), Colorado (08), Connecticut (09), Delaware (10),"
+"District of Columbia (11), Florida (12), Georgia (13), Hawaii (15), Idaho (16), Illinois (17), Indiana (18), Iowa (19), Kansas"
+"(20), Kentucky (21), Louisiana (22), Maine (23), Maryland (24), Massachusetts (25), Michigan (26), Minnesota (27), Mississippi"
+"(28), Missouri (29), Montana (30), Nebraska (31), Nevada (32), New Hampshire (33), New Jersey (34), New Mexico (35), New York"
+"(36), North Carolina (37), North Dakota (38), Ohio (39), Oklahoma (40), Oregon (41), Pennsylvania (42), Rhode Island (44), South"
+"Carolina (45), South Dakota (46), Tennessee (47), Texas (48), Utah (49), Vermont (50), Virginia (51), Washington (53), West"
+"Virginia (54), Wisconsin (55), Wyoming (56)"
+"Year: 2010"
+"Group By: Cancer Sites, State, Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2011.html for more information."
+"---"
+"Query Date: Feb 16, 2015 2:37:44 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2011 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2014. Accessed at"
+"http://wonder.cdc.gov/cancer-v2011.html on Feb 16, 2015 2:37:44 PM"
+"---"
+Footnotes:
+"1. Data for in situ Breast Cancers are listed separately from Breast Cancers and not included in the ""all sites"" category."
+"---"
+Caveats:
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. These states are missing data for the indicated year: Alabama 1999; Arkansas 1999-2000, 2002; District of Columbia 2001-2002;"
+"Maryland 2001; Mississippi 1999-2002; Nevada 1999, 2011; North Dakota 2001; South Dakota 1999-2000; Tennessee 1999-2003;"
+"Virginia 1999-2002."
+"3. Data are suppressed if fewer than 16 cases are reported in the specific category. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Georgia, Illinois,"
+"Kansas, Kentucky, Missouri, New Jersey, New York, and South Carolina; 2) Asian or Pacific Islander data are suppressed at the"
+"state level for Delaware, Illinois, Kansas, Kentucky, Missouri, and South Carolina; 3) Hispanic data are supressed at the state"
+"level for Delaware, Kentucky, Massachusetts, Missouri, Pennsylvania, and South Carolina. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2011.html#Confidentiality."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
