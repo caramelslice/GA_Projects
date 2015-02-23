@@ -1,0 +1,1155 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"Year"	"Year Code"	Count
+	"All Cancer Sites Combined"	"0"	"2000"	"2000"	19737
+	"All Cancer Sites Combined"	"0"	"2001"	"2001"	20969
+	"All Cancer Sites Combined"	"0"	"2002"	"2002"	21301
+	"All Cancer Sites Combined"	"0"	"2003"	"2003"	20709
+	"All Cancer Sites Combined"	"0"	"2004"	"2004"	22103
+	"All Cancer Sites Combined"	"0"	"2005"	"2005"	22570
+	"All Cancer Sites Combined"	"0"	"2006"	"2006"	23226
+	"All Cancer Sites Combined"	"0"	"2007"	"2007"	24068
+	"All Cancer Sites Combined"	"0"	"2008"	"2008"	25158
+	"All Cancer Sites Combined"	"0"	"2009"	"2009"	25085
+	"All Cancer Sites Combined"	"0"	"2010"	"2010"	24945
+	"All Cancer Sites Combined"	"0"	"2011"	"2011"	24665
+	"Oral Cavity and Pharynx"	"20010-20100"	"2000"	"2000"	534
+	"Oral Cavity and Pharynx"	"20010-20100"	"2001"	"2001"	560
+	"Oral Cavity and Pharynx"	"20010-20100"	"2002"	"2002"	563
+	"Oral Cavity and Pharynx"	"20010-20100"	"2003"	"2003"	568
+	"Oral Cavity and Pharynx"	"20010-20100"	"2004"	"2004"	577
+	"Oral Cavity and Pharynx"	"20010-20100"	"2005"	"2005"	647
+	"Oral Cavity and Pharynx"	"20010-20100"	"2006"	"2006"	715
+	"Oral Cavity and Pharynx"	"20010-20100"	"2007"	"2007"	656
+	"Oral Cavity and Pharynx"	"20010-20100"	"2008"	"2008"	698
+	"Oral Cavity and Pharynx"	"20010-20100"	"2009"	"2009"	682
+	"Oral Cavity and Pharynx"	"20010-20100"	"2010"	"2010"	715
+	"Oral Cavity and Pharynx"	"20010-20100"	"2011"	"2011"	684
+	"Lip"	"20010"	"2000"	"2000"	77
+	"Lip"	"20010"	"2001"	"2001"	59
+	"Lip"	"20010"	"2002"	"2002"	86
+	"Lip"	"20010"	"2003"	"2003"	52
+	"Lip"	"20010"	"2004"	"2004"	62
+	"Lip"	"20010"	"2005"	"2005"	69
+	"Lip"	"20010"	"2006"	"2006"	80
+	"Lip"	"20010"	"2007"	"2007"	49
+	"Lip"	"20010"	"2008"	"2008"	51
+	"Lip"	"20010"	"2009"	"2009"	50
+	"Lip"	"20010"	"2010"	"2010"	67
+	"Lip"	"20010"	"2011"	"2011"	56
+	"Tongue"	"20020"	"2000"	"2000"	96
+	"Tongue"	"20020"	"2001"	"2001"	110
+	"Tongue"	"20020"	"2002"	"2002"	119
+	"Tongue"	"20020"	"2003"	"2003"	125
+	"Tongue"	"20020"	"2004"	"2004"	126
+	"Tongue"	"20020"	"2005"	"2005"	173
+	"Tongue"	"20020"	"2006"	"2006"	180
+	"Tongue"	"20020"	"2007"	"2007"	160
+	"Tongue"	"20020"	"2008"	"2008"	186
+	"Tongue"	"20020"	"2009"	"2009"	191
+	"Tongue"	"20020"	"2010"	"2010"	187
+	"Tongue"	"20020"	"2011"	"2011"	166
+	"Salivary Gland"	"20030"	"2000"	"2000"	63
+	"Salivary Gland"	"20030"	"2001"	"2001"	50
+	"Salivary Gland"	"20030"	"2002"	"2002"	40
+	"Salivary Gland"	"20030"	"2003"	"2003"	44
+	"Salivary Gland"	"20030"	"2004"	"2004"	61
+	"Salivary Gland"	"20030"	"2005"	"2005"	57
+	"Salivary Gland"	"20030"	"2006"	"2006"	64
+	"Salivary Gland"	"20030"	"2007"	"2007"	68
+	"Salivary Gland"	"20030"	"2008"	"2008"	65
+	"Salivary Gland"	"20030"	"2009"	"2009"	76
+	"Salivary Gland"	"20030"	"2010"	"2010"	77
+	"Salivary Gland"	"20030"	"2011"	"2011"	75
+	"Floor of Mouth"	"20040"	"2000"	"2000"	32
+	"Floor of Mouth"	"20040"	"2001"	"2001"	42
+	"Floor of Mouth"	"20040"	"2002"	"2002"	38
+	"Floor of Mouth"	"20040"	"2003"	"2003"	39
+	"Floor of Mouth"	"20040"	"2004"	"2004"	35
+	"Floor of Mouth"	"20040"	"2005"	"2005"	38
+	"Floor of Mouth"	"20040"	"2006"	"2006"	44
+	"Floor of Mouth"	"20040"	"2007"	"2007"	39
+	"Floor of Mouth"	"20040"	"2008"	"2008"	37
+	"Floor of Mouth"	"20040"	"2009"	"2009"	36
+	"Floor of Mouth"	"20040"	"2010"	"2010"	35
+	"Floor of Mouth"	"20040"	"2011"	"2011"	34
+	"Gum and Other Mouth"	"20050"	"2000"	"2000"	90
+	"Gum and Other Mouth"	"20050"	"2001"	"2001"	91
+	"Gum and Other Mouth"	"20050"	"2002"	"2002"	90
+	"Gum and Other Mouth"	"20050"	"2003"	"2003"	108
+	"Gum and Other Mouth"	"20050"	"2004"	"2004"	95
+	"Gum and Other Mouth"	"20050"	"2005"	"2005"	109
+	"Gum and Other Mouth"	"20050"	"2006"	"2006"	100
+	"Gum and Other Mouth"	"20050"	"2007"	"2007"	111
+	"Gum and Other Mouth"	"20050"	"2008"	"2008"	119
+	"Gum and Other Mouth"	"20050"	"2009"	"2009"	91
+	"Gum and Other Mouth"	"20050"	"2010"	"2010"	110
+	"Gum and Other Mouth"	"20050"	"2011"	"2011"	101
+	"Nasopharynx"	"20060"	"2000"	"2000"	22
+	"Nasopharynx"	"20060"	"2001"	"2001"	28
+	"Nasopharynx"	"20060"	"2002"	"2002"	31
+	"Nasopharynx"	"20060"	"2003"	"2003"	35
+	"Nasopharynx"	"20060"	"2004"	"2004"	22
+	"Nasopharynx"	"20060"	"2005"	"2005"	27
+	"Nasopharynx"	"20060"	"2006"	"2006"	20
+	"Nasopharynx"	"20060"	"2007"	"2007"	26
+	"Nasopharynx"	"20060"	"2008"	"2008"	31
+	"Nasopharynx"	"20060"	"2009"	"2009"	29
+	"Nasopharynx"	"20060"	"2010"	"2010"	31
+	"Nasopharynx"	"20060"	"2011"	"2011"	29
+	"Tonsil"	"20070"	"2000"	"2000"	64
+	"Tonsil"	"20070"	"2001"	"2001"	70
+	"Tonsil"	"20070"	"2002"	"2002"	68
+	"Tonsil"	"20070"	"2003"	"2003"	70
+	"Tonsil"	"20070"	"2004"	"2004"	70
+	"Tonsil"	"20070"	"2005"	"2005"	69
+	"Tonsil"	"20070"	"2006"	"2006"	106
+	"Tonsil"	"20070"	"2007"	"2007"	89
+	"Tonsil"	"20070"	"2008"	"2008"	101
+	"Tonsil"	"20070"	"2009"	"2009"	118
+	"Tonsil"	"20070"	"2010"	"2010"	110
+	"Tonsil"	"20070"	"2011"	"2011"	120
+	"Oropharynx"	"20080"	"2000"	"2000"	26
+	"Oropharynx"	"20080"	"2001"	"2001"	35
+	"Oropharynx"	"20080"	"2002"	"2002"	30
+	"Oropharynx"	"20080"	"2003"	"2003"	27
+	"Oropharynx"	"20080"	"2004"	"2004"	32
+	"Oropharynx"	"20080"	"2005"	"2005"	30
+	"Oropharynx"	"20080"	"2006"	"2006"	57
+	"Oropharynx"	"20080"	"2007"	"2007"	36
+	"Oropharynx"	"20080"	"2008"	"2008"	41
+	"Oropharynx"	"20080"	"2009"	"2009"	30
+	"Oropharynx"	"20080"	"2010"	"2010"	33
+	"Oropharynx"	"20080"	"2011"	"2011"	38
+	"Hypopharynx"	"20090"	"2000"	"2000"	43
+	"Hypopharynx"	"20090"	"2001"	"2001"	50
+	"Hypopharynx"	"20090"	"2002"	"2002"	44
+	"Hypopharynx"	"20090"	"2003"	"2003"	54
+	"Hypopharynx"	"20090"	"2004"	"2004"	52
+	"Hypopharynx"	"20090"	"2005"	"2005"	56
+	"Hypopharynx"	"20090"	"2006"	"2006"	43
+	"Hypopharynx"	"20090"	"2007"	"2007"	54
+	"Hypopharynx"	"20090"	"2008"	"2008"	43
+	"Hypopharynx"	"20090"	"2009"	"2009"	42
+	"Hypopharynx"	"20090"	"2010"	"2010"	49
+	"Hypopharynx"	"20090"	"2011"	"2011"	37
+	"Other Oral Cavity and Pharynx"	"20100"	"2000"	"2000"	21
+	"Other Oral Cavity and Pharynx"	"20100"	"2001"	"2001"	25
+	"Other Oral Cavity and Pharynx"	"20100"	"2002"	"2002"	17
+	"Other Oral Cavity and Pharynx"	"20100"	"2004"	"2004"	22
+	"Other Oral Cavity and Pharynx"	"20100"	"2005"	"2005"	19
+	"Other Oral Cavity and Pharynx"	"20100"	"2006"	"2006"	21
+	"Other Oral Cavity and Pharynx"	"20100"	"2007"	"2007"	24
+	"Other Oral Cavity and Pharynx"	"20100"	"2008"	"2008"	24
+	"Other Oral Cavity and Pharynx"	"20100"	"2009"	"2009"	19
+	"Other Oral Cavity and Pharynx"	"20100"	"2010"	"2010"	16
+	"Other Oral Cavity and Pharynx"	"20100"	"2011"	"2011"	28
+	"Digestive System"	"21010-21130"	"2000"	"2000"	3713
+	"Digestive System"	"21010-21130"	"2001"	"2001"	3862
+	"Digestive System"	"21010-21130"	"2002"	"2002"	3874
+	"Digestive System"	"21010-21130"	"2003"	"2003"	3882
+	"Digestive System"	"21010-21130"	"2004"	"2004"	4085
+	"Digestive System"	"21010-21130"	"2005"	"2005"	4136
+	"Digestive System"	"21010-21130"	"2006"	"2006"	4214
+	"Digestive System"	"21010-21130"	"2007"	"2007"	4344
+	"Digestive System"	"21010-21130"	"2008"	"2008"	4634
+	"Digestive System"	"21010-21130"	"2009"	"2009"	4388
+	"Digestive System"	"21010-21130"	"2010"	"2010"	4368
+	"Digestive System"	"21010-21130"	"2011"	"2011"	4403
+	"Esophagus"	"21010"	"2000"	"2000"	211
+	"Esophagus"	"21010"	"2001"	"2001"	225
+	"Esophagus"	"21010"	"2002"	"2002"	222
+	"Esophagus"	"21010"	"2003"	"2003"	243
+	"Esophagus"	"21010"	"2004"	"2004"	228
+	"Esophagus"	"21010"	"2005"	"2005"	246
+	"Esophagus"	"21010"	"2006"	"2006"	243
+	"Esophagus"	"21010"	"2007"	"2007"	266
+	"Esophagus"	"21010"	"2008"	"2008"	254
+	"Esophagus"	"21010"	"2009"	"2009"	272
+	"Esophagus"	"21010"	"2010"	"2010"	262
+	"Esophagus"	"21010"	"2011"	"2011"	275
+	"Stomach"	"21020"	"2000"	"2000"	298
+	"Stomach"	"21020"	"2001"	"2001"	326
+	"Stomach"	"21020"	"2002"	"2002"	321
+	"Stomach"	"21020"	"2003"	"2003"	289
+	"Stomach"	"21020"	"2004"	"2004"	297
+	"Stomach"	"21020"	"2005"	"2005"	319
+	"Stomach"	"21020"	"2006"	"2006"	280
+	"Stomach"	"21020"	"2007"	"2007"	335
+	"Stomach"	"21020"	"2008"	"2008"	342
+	"Stomach"	"21020"	"2009"	"2009"	314
+	"Stomach"	"21020"	"2010"	"2010"	337
+	"Stomach"	"21020"	"2011"	"2011"	363
+	"Small Intestine"	"21030"	"2000"	"2000"	66
+	"Small Intestine"	"21030"	"2001"	"2001"	85
+	"Small Intestine"	"21030"	"2002"	"2002"	85
+	"Small Intestine"	"21030"	"2003"	"2003"	74
+	"Small Intestine"	"21030"	"2004"	"2004"	85
+	"Small Intestine"	"21030"	"2005"	"2005"	77
+	"Small Intestine"	"21030"	"2006"	"2006"	129
+	"Small Intestine"	"21030"	"2007"	"2007"	107
+	"Small Intestine"	"21030"	"2008"	"2008"	111
+	"Small Intestine"	"21030"	"2009"	"2009"	126
+	"Small Intestine"	"21030"	"2010"	"2010"	139
+	"Small Intestine"	"21030"	"2011"	"2011"	148
+	"Colon and Rectum"	"21041-21052"	"2000"	"2000"	2301
+	"Colon and Rectum"	"21041-21052"	"2001"	"2001"	2336
+	"Colon and Rectum"	"21041-21052"	"2002"	"2002"	2353
+	"Colon and Rectum"	"21041-21052"	"2003"	"2003"	2375
+	"Colon and Rectum"	"21041-21052"	"2004"	"2004"	2470
+	"Colon and Rectum"	"21041-21052"	"2005"	"2005"	2475
+	"Colon and Rectum"	"21041-21052"	"2006"	"2006"	2497
+	"Colon and Rectum"	"21041-21052"	"2007"	"2007"	2519
+	"Colon and Rectum"	"21041-21052"	"2008"	"2008"	2629
+	"Colon and Rectum"	"21041-21052"	"2009"	"2009"	2459
+	"Colon and Rectum"	"21041-21052"	"2010"	"2010"	2347
+	"Colon and Rectum"	"21041-21052"	"2011"	"2011"	2253
+	"Colon excluding Rectum"	"21041-21049"	"2000"	"2000"	1767
+	"Colon excluding Rectum"	"21041-21049"	"2001"	"2001"	1739
+	"Colon excluding Rectum"	"21041-21049"	"2002"	"2002"	1733
+	"Colon excluding Rectum"	"21041-21049"	"2003"	"2003"	1728
+	"Colon excluding Rectum"	"21041-21049"	"2004"	"2004"	1835
+	"Colon excluding Rectum"	"21041-21049"	"2005"	"2005"	1845
+	"Colon excluding Rectum"	"21041-21049"	"2006"	"2006"	1853
+	"Colon excluding Rectum"	"21041-21049"	"2007"	"2007"	1859
+	"Colon excluding Rectum"	"21041-21049"	"2008"	"2008"	1978
+	"Colon excluding Rectum"	"21041-21049"	"2009"	"2009"	1810
+	"Colon excluding Rectum"	"21041-21049"	"2010"	"2010"	1718
+	"Colon excluding Rectum"	"21041-21049"	"2011"	"2011"	1681
+	"Cecum"	"21041"	"2000"	"2000"	360
+	"Cecum"	"21041"	"2001"	"2001"	383
+	"Cecum"	"21041"	"2002"	"2002"	383
+	"Cecum"	"21041"	"2003"	"2003"	388
+	"Cecum"	"21041"	"2004"	"2004"	393
+	"Cecum"	"21041"	"2005"	"2005"	377
+	"Cecum"	"21041"	"2006"	"2006"	342
+	"Cecum"	"21041"	"2007"	"2007"	355
+	"Cecum"	"21041"	"2008"	"2008"	382
+	"Cecum"	"21041"	"2009"	"2009"	334
+	"Cecum"	"21041"	"2010"	"2010"	352
+	"Cecum"	"21041"	"2011"	"2011"	343
+	"Appendix"	"21042"	"2001"	"2001"	26
+	"Appendix"	"21042"	"2002"	"2002"	18
+	"Appendix"	"21042"	"2003"	"2003"	25
+	"Appendix"	"21042"	"2004"	"2004"	35
+	"Appendix"	"21042"	"2005"	"2005"	31
+	"Appendix"	"21042"	"2006"	"2006"	29
+	"Appendix"	"21042"	"2007"	"2007"	30
+	"Appendix"	"21042"	"2008"	"2008"	29
+	"Appendix"	"21042"	"2009"	"2009"	40
+	"Appendix"	"21042"	"2010"	"2010"	45
+	"Appendix"	"21042"	"2011"	"2011"	55
+	"Ascending Colon"	"21043"	"2000"	"2000"	282
+	"Ascending Colon"	"21043"	"2001"	"2001"	270
+	"Ascending Colon"	"21043"	"2002"	"2002"	287
+	"Ascending Colon"	"21043"	"2003"	"2003"	269
+	"Ascending Colon"	"21043"	"2004"	"2004"	306
+	"Ascending Colon"	"21043"	"2005"	"2005"	335
+	"Ascending Colon"	"21043"	"2006"	"2006"	348
+	"Ascending Colon"	"21043"	"2007"	"2007"	381
+	"Ascending Colon"	"21043"	"2008"	"2008"	388
+	"Ascending Colon"	"21043"	"2009"	"2009"	372
+	"Ascending Colon"	"21043"	"2010"	"2010"	288
+	"Ascending Colon"	"21043"	"2011"	"2011"	304
+	"Hepatic Flexure"	"21044"	"2000"	"2000"	76
+	"Hepatic Flexure"	"21044"	"2001"	"2001"	80
+	"Hepatic Flexure"	"21044"	"2002"	"2002"	94
+	"Hepatic Flexure"	"21044"	"2003"	"2003"	84
+	"Hepatic Flexure"	"21044"	"2004"	"2004"	96
+	"Hepatic Flexure"	"21044"	"2005"	"2005"	75
+	"Hepatic Flexure"	"21044"	"2006"	"2006"	81
+	"Hepatic Flexure"	"21044"	"2007"	"2007"	75
+	"Hepatic Flexure"	"21044"	"2008"	"2008"	95
+	"Hepatic Flexure"	"21044"	"2009"	"2009"	87
+	"Hepatic Flexure"	"21044"	"2010"	"2010"	98
+	"Hepatic Flexure"	"21044"	"2011"	"2011"	62
+	"Transverse Colon"	"21045"	"2000"	"2000"	145
+	"Transverse Colon"	"21045"	"2001"	"2001"	159
+	"Transverse Colon"	"21045"	"2002"	"2002"	129
+	"Transverse Colon"	"21045"	"2003"	"2003"	142
+	"Transverse Colon"	"21045"	"2004"	"2004"	139
+	"Transverse Colon"	"21045"	"2005"	"2005"	172
+	"Transverse Colon"	"21045"	"2006"	"2006"	174
+	"Transverse Colon"	"21045"	"2007"	"2007"	153
+	"Transverse Colon"	"21045"	"2008"	"2008"	161
+	"Transverse Colon"	"21045"	"2009"	"2009"	147
+	"Transverse Colon"	"21045"	"2010"	"2010"	151
+	"Transverse Colon"	"21045"	"2011"	"2011"	127
+	"Splenic Flexure"	"21046"	"2000"	"2000"	62
+	"Splenic Flexure"	"21046"	"2001"	"2001"	66
+	"Splenic Flexure"	"21046"	"2002"	"2002"	53
+	"Splenic Flexure"	"21046"	"2003"	"2003"	66
+	"Splenic Flexure"	"21046"	"2004"	"2004"	64
+	"Splenic Flexure"	"21046"	"2005"	"2005"	50
+	"Splenic Flexure"	"21046"	"2006"	"2006"	60
+	"Splenic Flexure"	"21046"	"2007"	"2007"	64
+	"Splenic Flexure"	"21046"	"2008"	"2008"	48
+	"Splenic Flexure"	"21046"	"2009"	"2009"	61
+	"Splenic Flexure"	"21046"	"2010"	"2010"	49
+	"Splenic Flexure"	"21046"	"2011"	"2011"	45
+	"Descending Colon"	"21047"	"2000"	"2000"	108
+	"Descending Colon"	"21047"	"2001"	"2001"	109
+	"Descending Colon"	"21047"	"2002"	"2002"	92
+	"Descending Colon"	"21047"	"2003"	"2003"	96
+	"Descending Colon"	"21047"	"2004"	"2004"	118
+	"Descending Colon"	"21047"	"2005"	"2005"	120
+	"Descending Colon"	"21047"	"2006"	"2006"	111
+	"Descending Colon"	"21047"	"2007"	"2007"	100
+	"Descending Colon"	"21047"	"2008"	"2008"	117
+	"Descending Colon"	"21047"	"2009"	"2009"	117
+	"Descending Colon"	"21047"	"2010"	"2010"	100
+	"Descending Colon"	"21047"	"2011"	"2011"	81
+	"Sigmoid Colon"	"21048"	"2000"	"2000"	504
+	"Sigmoid Colon"	"21048"	"2001"	"2001"	458
+	"Sigmoid Colon"	"21048"	"2002"	"2002"	491
+	"Sigmoid Colon"	"21048"	"2003"	"2003"	486
+	"Sigmoid Colon"	"21048"	"2004"	"2004"	514
+	"Sigmoid Colon"	"21048"	"2005"	"2005"	471
+	"Sigmoid Colon"	"21048"	"2006"	"2006"	491
+	"Sigmoid Colon"	"21048"	"2007"	"2007"	512
+	"Sigmoid Colon"	"21048"	"2008"	"2008"	496
+	"Sigmoid Colon"	"21048"	"2009"	"2009"	448
+	"Sigmoid Colon"	"21048"	"2010"	"2010"	425
+	"Sigmoid Colon"	"21048"	"2011"	"2011"	469
+	"Large Intestine, NOS"	"21049"	"2000"	"2000"	215
+	"Large Intestine, NOS"	"21049"	"2001"	"2001"	188
+	"Large Intestine, NOS"	"21049"	"2002"	"2002"	186
+	"Large Intestine, NOS"	"21049"	"2003"	"2003"	172
+	"Large Intestine, NOS"	"21049"	"2004"	"2004"	170
+	"Large Intestine, NOS"	"21049"	"2005"	"2005"	214
+	"Large Intestine, NOS"	"21049"	"2006"	"2006"	217
+	"Large Intestine, NOS"	"21049"	"2007"	"2007"	189
+	"Large Intestine, NOS"	"21049"	"2008"	"2008"	262
+	"Large Intestine, NOS"	"21049"	"2009"	"2009"	204
+	"Large Intestine, NOS"	"21049"	"2010"	"2010"	210
+	"Large Intestine, NOS"	"21049"	"2011"	"2011"	195
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2000"	"2000"	534
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2001"	"2001"	597
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2002"	"2002"	620
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2003"	"2003"	647
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2004"	"2004"	635
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2005"	"2005"	630
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2006"	"2006"	644
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2007"	"2007"	660
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2008"	"2008"	651
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2009"	"2009"	649
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2010"	"2010"	629
+	"Rectum and Rectosigmoid Junction"	"21051-21052"	"2011"	"2011"	572
+	"Rectosigmoid Junction"	"21051"	"2000"	"2000"	158
+	"Rectosigmoid Junction"	"21051"	"2001"	"2001"	191
+	"Rectosigmoid Junction"	"21051"	"2002"	"2002"	174
+	"Rectosigmoid Junction"	"21051"	"2003"	"2003"	204
+	"Rectosigmoid Junction"	"21051"	"2004"	"2004"	185
+	"Rectosigmoid Junction"	"21051"	"2005"	"2005"	179
+	"Rectosigmoid Junction"	"21051"	"2006"	"2006"	180
+	"Rectosigmoid Junction"	"21051"	"2007"	"2007"	167
+	"Rectosigmoid Junction"	"21051"	"2008"	"2008"	167
+	"Rectosigmoid Junction"	"21051"	"2009"	"2009"	171
+	"Rectosigmoid Junction"	"21051"	"2010"	"2010"	171
+	"Rectosigmoid Junction"	"21051"	"2011"	"2011"	140
+	"Rectum"	"21052"	"2000"	"2000"	376
+	"Rectum"	"21052"	"2001"	"2001"	406
+	"Rectum"	"21052"	"2002"	"2002"	446
+	"Rectum"	"21052"	"2003"	"2003"	443
+	"Rectum"	"21052"	"2004"	"2004"	450
+	"Rectum"	"21052"	"2005"	"2005"	451
+	"Rectum"	"21052"	"2006"	"2006"	464
+	"Rectum"	"21052"	"2007"	"2007"	493
+	"Rectum"	"21052"	"2008"	"2008"	484
+	"Rectum"	"21052"	"2009"	"2009"	478
+	"Rectum"	"21052"	"2010"	"2010"	458
+	"Rectum"	"21052"	"2011"	"2011"	432
+	"Anus, Anal Canal and Anorectum"	"21060"	"2000"	"2000"	58
+	"Anus, Anal Canal and Anorectum"	"21060"	"2001"	"2001"	55
+	"Anus, Anal Canal and Anorectum"	"21060"	"2002"	"2002"	53
+	"Anus, Anal Canal and Anorectum"	"21060"	"2003"	"2003"	62
+	"Anus, Anal Canal and Anorectum"	"21060"	"2004"	"2004"	75
+	"Anus, Anal Canal and Anorectum"	"21060"	"2005"	"2005"	81
+	"Anus, Anal Canal and Anorectum"	"21060"	"2006"	"2006"	78
+	"Anus, Anal Canal and Anorectum"	"21060"	"2007"	"2007"	82
+	"Anus, Anal Canal and Anorectum"	"21060"	"2008"	"2008"	103
+	"Anus, Anal Canal and Anorectum"	"21060"	"2009"	"2009"	102
+	"Anus, Anal Canal and Anorectum"	"21060"	"2010"	"2010"	107
+	"Anus, Anal Canal and Anorectum"	"21060"	"2011"	"2011"	80
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2000"	"2000"	203
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2001"	"2001"	187
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2002"	"2002"	232
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2003"	"2003"	203
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2004"	"2004"	236
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2005"	"2005"	240
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2006"	"2006"	229
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2007"	"2007"	279
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2008"	"2008"	325
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2009"	"2009"	321
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2010"	"2010"	342
+	"Liver and Intrahepatic Bile Duct"	"21071-21072"	"2011"	"2011"	379
+	"Liver"	"21071"	"2000"	"2000"	174
+	"Liver"	"21071"	"2001"	"2001"	166
+	"Liver"	"21071"	"2002"	"2002"	210
+	"Liver"	"21071"	"2003"	"2003"	177
+	"Liver"	"21071"	"2004"	"2004"	218
+	"Liver"	"21071"	"2005"	"2005"	222
+	"Liver"	"21071"	"2006"	"2006"	215
+	"Liver"	"21071"	"2007"	"2007"	258
+	"Liver"	"21071"	"2008"	"2008"	296
+	"Liver"	"21071"	"2009"	"2009"	295
+	"Liver"	"21071"	"2010"	"2010"	304
+	"Liver"	"21071"	"2011"	"2011"	338
+	"Intrahepatic Bile Duct"	"21072"	"2000"	"2000"	29
+	"Intrahepatic Bile Duct"	"21072"	"2001"	"2001"	21
+	"Intrahepatic Bile Duct"	"21072"	"2002"	"2002"	22
+	"Intrahepatic Bile Duct"	"21072"	"2003"	"2003"	26
+	"Intrahepatic Bile Duct"	"21072"	"2004"	"2004"	18
+	"Intrahepatic Bile Duct"	"21072"	"2005"	"2005"	18
+	"Intrahepatic Bile Duct"	"21072"	"2007"	"2007"	21
+	"Intrahepatic Bile Duct"	"21072"	"2008"	"2008"	29
+	"Intrahepatic Bile Duct"	"21072"	"2009"	"2009"	26
+	"Intrahepatic Bile Duct"	"21072"	"2010"	"2010"	38
+	"Intrahepatic Bile Duct"	"21072"	"2011"	"2011"	41
+	"Gallbladder"	"21080"	"2000"	"2000"	40
+	"Gallbladder"	"21080"	"2001"	"2001"	43
+	"Gallbladder"	"21080"	"2002"	"2002"	36
+	"Gallbladder"	"21080"	"2003"	"2003"	40
+	"Gallbladder"	"21080"	"2004"	"2004"	41
+	"Gallbladder"	"21080"	"2005"	"2005"	40
+	"Gallbladder"	"21080"	"2006"	"2006"	43
+	"Gallbladder"	"21080"	"2007"	"2007"	57
+	"Gallbladder"	"21080"	"2008"	"2008"	51
+	"Gallbladder"	"21080"	"2009"	"2009"	48
+	"Gallbladder"	"21080"	"2010"	"2010"	40
+	"Gallbladder"	"21080"	"2011"	"2011"	45
+	"Other Biliary"	"21090"	"2000"	"2000"	33
+	"Other Biliary"	"21090"	"2001"	"2001"	65
+	"Other Biliary"	"21090"	"2002"	"2002"	58
+	"Other Biliary"	"21090"	"2003"	"2003"	67
+	"Other Biliary"	"21090"	"2004"	"2004"	71
+	"Other Biliary"	"21090"	"2005"	"2005"	66
+	"Other Biliary"	"21090"	"2006"	"2006"	76
+	"Other Biliary"	"21090"	"2007"	"2007"	60
+	"Other Biliary"	"21090"	"2008"	"2008"	67
+	"Other Biliary"	"21090"	"2009"	"2009"	71
+	"Other Biliary"	"21090"	"2010"	"2010"	72
+	"Other Biliary"	"21090"	"2011"	"2011"	57
+	"Pancreas"	"21100"	"2000"	"2000"	477
+	"Pancreas"	"21100"	"2001"	"2001"	501
+	"Pancreas"	"21100"	"2002"	"2002"	470
+	"Pancreas"	"21100"	"2003"	"2003"	470
+	"Pancreas"	"21100"	"2004"	"2004"	525
+	"Pancreas"	"21100"	"2005"	"2005"	539
+	"Pancreas"	"21100"	"2006"	"2006"	565
+	"Pancreas"	"21100"	"2007"	"2007"	579
+	"Pancreas"	"21100"	"2008"	"2008"	685
+	"Pancreas"	"21100"	"2009"	"2009"	620
+	"Pancreas"	"21100"	"2010"	"2010"	670
+	"Pancreas"	"21100"	"2011"	"2011"	751
+	"Retroperitoneum"	"21110"	"2001"	"2001"	17
+	"Retroperitoneum"	"21110"	"2006"	"2006"	25
+	"Retroperitoneum"	"21110"	"2008"	"2008"	19
+	"Retroperitoneum"	"21110"	"2009"	"2009"	20
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2002"	"2002"	22
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2003"	"2003"	27
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2004"	"2004"	30
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2005"	"2005"	27
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2006"	"2006"	30
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2007"	"2007"	30
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2008"	"2008"	33
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2009"	"2009"	29
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2010"	"2010"	27
+	"Peritoneum, Omentum and Mesentery"	"21120"	"2011"	"2011"	21
+	"Other Digestive Organs"	"21130"	"2003"	"2003"	19
+	"Other Digestive Organs"	"21130"	"2004"	"2004"	16
+	"Other Digestive Organs"	"21130"	"2006"	"2006"	19
+	"Other Digestive Organs"	"21130"	"2011"	"2011"	18
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	3716
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	3934
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	3897
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	3832
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	4122
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	4074
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	4139
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	4193
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	4466
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	4363
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	4330
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	4318
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2000"	"2000"	26
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2001"	"2001"	38
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2002"	"2002"	22
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2003"	"2003"	35
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2004"	"2004"	31
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2005"	"2005"	37
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2006"	"2006"	31
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2007"	"2007"	40
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2008"	"2008"	34
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2009"	"2009"	46
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2010"	"2010"	35
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"2011"	"2011"	35
+	"Larynx"	"22020"	"2000"	"2000"	245
+	"Larynx"	"22020"	"2001"	"2001"	241
+	"Larynx"	"22020"	"2002"	"2002"	239
+	"Larynx"	"22020"	"2003"	"2003"	228
+	"Larynx"	"22020"	"2004"	"2004"	278
+	"Larynx"	"22020"	"2005"	"2005"	265
+	"Larynx"	"22020"	"2006"	"2006"	275
+	"Larynx"	"22020"	"2007"	"2007"	278
+	"Larynx"	"22020"	"2008"	"2008"	302
+	"Larynx"	"22020"	"2009"	"2009"	264
+	"Larynx"	"22020"	"2010"	"2010"	273
+	"Larynx"	"22020"	"2011"	"2011"	300
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	3438
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	3644
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	3627
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	3563
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	3802
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	3762
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	3821
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	3865
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	4122
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	4040
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	4016
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	3967
+	"Bones and Joints"	"23000"	"2000"	"2000"	47
+	"Bones and Joints"	"23000"	"2001"	"2001"	51
+	"Bones and Joints"	"23000"	"2002"	"2002"	51
+	"Bones and Joints"	"23000"	"2003"	"2003"	38
+	"Bones and Joints"	"23000"	"2004"	"2004"	45
+	"Bones and Joints"	"23000"	"2005"	"2005"	46
+	"Bones and Joints"	"23000"	"2006"	"2006"	31
+	"Bones and Joints"	"23000"	"2007"	"2007"	41
+	"Bones and Joints"	"23000"	"2008"	"2008"	51
+	"Bones and Joints"	"23000"	"2009"	"2009"	38
+	"Bones and Joints"	"23000"	"2010"	"2010"	39
+	"Bones and Joints"	"23000"	"2011"	"2011"	51
+	"Soft Tissue including Heart"	"24000"	"2000"	"2000"	127
+	"Soft Tissue including Heart"	"24000"	"2001"	"2001"	131
+	"Soft Tissue including Heart"	"24000"	"2002"	"2002"	137
+	"Soft Tissue including Heart"	"24000"	"2003"	"2003"	141
+	"Soft Tissue including Heart"	"24000"	"2004"	"2004"	159
+	"Soft Tissue including Heart"	"24000"	"2005"	"2005"	135
+	"Soft Tissue including Heart"	"24000"	"2006"	"2006"	156
+	"Soft Tissue including Heart"	"24000"	"2007"	"2007"	144
+	"Soft Tissue including Heart"	"24000"	"2008"	"2008"	155
+	"Soft Tissue including Heart"	"24000"	"2009"	"2009"	154
+	"Soft Tissue including Heart"	"24000"	"2010"	"2010"	156
+	"Soft Tissue including Heart"	"24000"	"2011"	"2011"	134
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2000"	"2000"	633
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2001"	"2001"	678
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2002"	"2002"	681
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2003"	"2003"	681
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2004"	"2004"	797
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2005"	"2005"	979
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2006"	"2006"	957
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2007"	"2007"	1029
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2008"	"2008"	1122
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2009"	"2009"	1239
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2010"	"2010"	1192
+	"Skin excluding Basal and Squamous"	"25010-25020"	"2011"	"2011"	1135
+	"Melanoma of the Skin"	"25010"	"2000"	"2000"	578
+	"Melanoma of the Skin"	"25010"	"2001"	"2001"	627
+	"Melanoma of the Skin"	"25010"	"2002"	"2002"	623
+	"Melanoma of the Skin"	"25010"	"2003"	"2003"	631
+	"Melanoma of the Skin"	"25010"	"2004"	"2004"	733
+	"Melanoma of the Skin"	"25010"	"2005"	"2005"	919
+	"Melanoma of the Skin"	"25010"	"2006"	"2006"	905
+	"Melanoma of the Skin"	"25010"	"2007"	"2007"	966
+	"Melanoma of the Skin"	"25010"	"2008"	"2008"	1063
+	"Melanoma of the Skin"	"25010"	"2009"	"2009"	1151
+	"Melanoma of the Skin"	"25010"	"2010"	"2010"	1119
+	"Melanoma of the Skin"	"25010"	"2011"	"2011"	1075
+	"Other Non-Epithelial Skin"	"25020"	"2000"	"2000"	55
+	"Other Non-Epithelial Skin"	"25020"	"2001"	"2001"	51
+	"Other Non-Epithelial Skin"	"25020"	"2002"	"2002"	58
+	"Other Non-Epithelial Skin"	"25020"	"2003"	"2003"	50
+	"Other Non-Epithelial Skin"	"25020"	"2004"	"2004"	64
+	"Other Non-Epithelial Skin"	"25020"	"2005"	"2005"	60
+	"Other Non-Epithelial Skin"	"25020"	"2006"	"2006"	52
+	"Other Non-Epithelial Skin"	"25020"	"2007"	"2007"	63
+	"Other Non-Epithelial Skin"	"25020"	"2008"	"2008"	59
+	"Other Non-Epithelial Skin"	"25020"	"2009"	"2009"	88
+	"Other Non-Epithelial Skin"	"25020"	"2010"	"2010"	73
+	"Other Non-Epithelial Skin"	"25020"	"2011"	"2011"	60
+	"Male and Female Breast"	"26000"	"2000"	"2000"	2995
+	"Male and Female Breast"	"26000"	"2001"	"2001"	3117
+	"Male and Female Breast"	"26000"	"2002"	"2002"	3087
+	"Male and Female Breast"	"26000"	"2003"	"2003"	2914
+	"Male and Female Breast"	"26000"	"2004"	"2004"	2943
+	"Male and Female Breast"	"26000"	"2005"	"2005"	3092
+	"Male and Female Breast"	"26000"	"2006"	"2006"	3262
+	"Male and Female Breast"	"26000"	"2007"	"2007"	3273
+	"Male and Female Breast"	"26000"	"2008"	"2008"	3476
+	"Male and Female Breast"	"26000"	"2009"	"2009"	3445
+	"Male and Female Breast"	"26000"	"2010"	"2010"	3431
+	"Male and Female Breast"	"26000"	"2011"	"2011"	3455
+	"Female Breast"	"26000-Female"	"2000"	"2000"	2953
+	"Female Breast"	"26000-Female"	"2001"	"2001"	3085
+	"Female Breast"	"26000-Female"	"2002"	"2002"	3046
+	"Female Breast"	"26000-Female"	"2003"	"2003"	2886
+	"Female Breast"	"26000-Female"	"2004"	"2004"	2917
+	"Female Breast"	"26000-Female"	"2005"	"2005"	3068
+	"Female Breast"	"26000-Female"	"2006"	"2006"	3229
+	"Female Breast"	"26000-Female"	"2007"	"2007"	3238
+	"Female Breast"	"26000-Female"	"2008"	"2008"	3422
+	"Female Breast"	"26000-Female"	"2009"	"2009"	3413
+	"Female Breast"	"26000-Female"	"2010"	"2010"	3392
+	"Female Breast"	"26000-Female"	"2011"	"2011"	3424
+	"Male Breast"	"26000-Male"	"2000"	"2000"	42
+	"Male Breast"	"26000-Male"	"2001"	"2001"	32
+	"Male Breast"	"26000-Male"	"2002"	"2002"	41
+	"Male Breast"	"26000-Male"	"2003"	"2003"	28
+	"Male Breast"	"26000-Male"	"2004"	"2004"	26
+	"Male Breast"	"26000-Male"	"2005"	"2005"	24
+	"Male Breast"	"26000-Male"	"2006"	"2006"	33
+	"Male Breast"	"26000-Male"	"2007"	"2007"	35
+	"Male Breast"	"26000-Male"	"2008"	"2008"	54
+	"Male Breast"	"26000-Male"	"2009"	"2009"	32
+	"Male Breast"	"26000-Male"	"2010"	"2010"	39
+	"Male Breast"	"26000-Male"	"2011"	"2011"	31
+	"Female Genital System"	"27010-27070"	"2000"	"2000"	1121
+	"Female Genital System"	"27010-27070"	"2001"	"2001"	1094
+	"Female Genital System"	"27010-27070"	"2002"	"2002"	1163
+	"Female Genital System"	"27010-27070"	"2003"	"2003"	1038
+	"Female Genital System"	"27010-27070"	"2004"	"2004"	1100
+	"Female Genital System"	"27010-27070"	"2005"	"2005"	1103
+	"Female Genital System"	"27010-27070"	"2006"	"2006"	1133
+	"Female Genital System"	"27010-27070"	"2007"	"2007"	1190
+	"Female Genital System"	"27010-27070"	"2008"	"2008"	1252
+	"Female Genital System"	"27010-27070"	"2009"	"2009"	1259
+	"Female Genital System"	"27010-27070"	"2010"	"2010"	1213
+	"Female Genital System"	"27010-27070"	"2011"	"2011"	1185
+	"Cervix Uteri"	"27010"	"2000"	"2000"	238
+	"Cervix Uteri"	"27010"	"2001"	"2001"	232
+	"Cervix Uteri"	"27010"	"2002"	"2002"	261
+	"Cervix Uteri"	"27010"	"2003"	"2003"	204
+	"Cervix Uteri"	"27010"	"2004"	"2004"	199
+	"Cervix Uteri"	"27010"	"2005"	"2005"	195
+	"Cervix Uteri"	"27010"	"2006"	"2006"	198
+	"Cervix Uteri"	"27010"	"2007"	"2007"	237
+	"Cervix Uteri"	"27010"	"2008"	"2008"	197
+	"Cervix Uteri"	"27010"	"2009"	"2009"	235
+	"Cervix Uteri"	"27010"	"2010"	"2010"	197
+	"Cervix Uteri"	"27010"	"2011"	"2011"	202
+	"Corpus Uteri"	"27020"	"2000"	"2000"	420
+	"Corpus Uteri"	"27020"	"2001"	"2001"	415
+	"Corpus Uteri"	"27020"	"2002"	"2002"	381
+	"Corpus Uteri"	"27020"	"2003"	"2003"	439
+	"Corpus Uteri"	"27020"	"2004"	"2004"	442
+	"Corpus Uteri"	"27020"	"2005"	"2005"	463
+	"Corpus Uteri"	"27020"	"2006"	"2006"	494
+	"Corpus Uteri"	"27020"	"2007"	"2007"	507
+	"Corpus Uteri"	"27020"	"2008"	"2008"	519
+	"Corpus Uteri"	"27020"	"2009"	"2009"	520
+	"Corpus Uteri"	"27020"	"2010"	"2010"	548
+	"Corpus Uteri"	"27020"	"2011"	"2011"	529
+	"Uterus, NOS"	"27030"	"2001"	"2001"	16
+	"Uterus, NOS"	"27030"	"2003"	"2003"	18
+	"Uterus, NOS"	"27030"	"2007"	"2007"	22
+	"Uterus, NOS"	"27030"	"2008"	"2008"	31
+	"Uterus, NOS"	"27030"	"2009"	"2009"	20
+	"Uterus, NOS"	"27030"	"2010"	"2010"	35
+	"Uterus, NOS"	"27030"	"2011"	"2011"	22
+	"Ovary"	"27040"	"2000"	"2000"	352
+	"Ovary"	"27040"	"2001"	"2001"	344
+	"Ovary"	"27040"	"2002"	"2002"	386
+	"Ovary"	"27040"	"2003"	"2003"	286
+	"Ovary"	"27040"	"2004"	"2004"	348
+	"Ovary"	"27040"	"2005"	"2005"	342
+	"Ovary"	"27040"	"2006"	"2006"	336
+	"Ovary"	"27040"	"2007"	"2007"	316
+	"Ovary"	"27040"	"2008"	"2008"	382
+	"Ovary"	"27040"	"2009"	"2009"	359
+	"Ovary"	"27040"	"2010"	"2010"	337
+	"Ovary"	"27040"	"2011"	"2011"	326
+	"Vagina"	"27050"	"2000"	"2000"	21
+	"Vagina"	"27050"	"2001"	"2001"	17
+	"Vagina"	"27050"	"2002"	"2002"	23
+	"Vagina"	"27050"	"2003"	"2003"	19
+	"Vagina"	"27050"	"2004"	"2004"	18
+	"Vagina"	"27050"	"2005"	"2005"	21
+	"Vagina"	"27050"	"2007"	"2007"	22
+	"Vagina"	"27050"	"2008"	"2008"	41
+	"Vagina"	"27050"	"2009"	"2009"	20
+	"Vagina"	"27050"	"2011"	"2011"	25
+	"Vulva"	"27060"	"2000"	"2000"	63
+	"Vulva"	"27060"	"2001"	"2001"	66
+	"Vulva"	"27060"	"2002"	"2002"	92
+	"Vulva"	"27060"	"2003"	"2003"	57
+	"Vulva"	"27060"	"2004"	"2004"	60
+	"Vulva"	"27060"	"2005"	"2005"	49
+	"Vulva"	"27060"	"2006"	"2006"	65
+	"Vulva"	"27060"	"2007"	"2007"	74
+	"Vulva"	"27060"	"2008"	"2008"	71
+	"Vulva"	"27060"	"2009"	"2009"	90
+	"Vulva"	"27060"	"2010"	"2010"	63
+	"Vulva"	"27060"	"2011"	"2011"	67
+	"Other Female Genital Organs"	"27070"	"2004"	"2004"	18
+	"Other Female Genital Organs"	"27070"	"2005"	"2005"	20
+	"Other Female Genital Organs"	"27070"	"2010"	"2010"	20
+	"Male Genital System"	"28010-28040"	"2000"	"2000"	2886
+	"Male Genital System"	"28010-28040"	"2001"	"2001"	3198
+	"Male Genital System"	"28010-28040"	"2002"	"2002"	3176
+	"Male Genital System"	"28010-28040"	"2003"	"2003"	3183
+	"Male Genital System"	"28010-28040"	"2004"	"2004"	3369
+	"Male Genital System"	"28010-28040"	"2005"	"2005"	3466
+	"Male Genital System"	"28010-28040"	"2006"	"2006"	3872
+	"Male Genital System"	"28010-28040"	"2007"	"2007"	4007
+	"Male Genital System"	"28010-28040"	"2008"	"2008"	3898
+	"Male Genital System"	"28010-28040"	"2009"	"2009"	3949
+	"Male Genital System"	"28010-28040"	"2010"	"2010"	3922
+	"Male Genital System"	"28010-28040"	"2011"	"2011"	3819
+	"Prostate"	"28010"	"2000"	"2000"	2780
+	"Prostate"	"28010"	"2001"	"2001"	3101
+	"Prostate"	"28010"	"2002"	"2002"	3062
+	"Prostate"	"28010"	"2003"	"2003"	3082
+	"Prostate"	"28010"	"2004"	"2004"	3251
+	"Prostate"	"28010"	"2005"	"2005"	3339
+	"Prostate"	"28010"	"2006"	"2006"	3758
+	"Prostate"	"28010"	"2007"	"2007"	3885
+	"Prostate"	"28010"	"2008"	"2008"	3754
+	"Prostate"	"28010"	"2009"	"2009"	3823
+	"Prostate"	"28010"	"2010"	"2010"	3786
+	"Prostate"	"28010"	"2011"	"2011"	3707
+	"Testis"	"28020"	"2000"	"2000"	85
+	"Testis"	"28020"	"2001"	"2001"	85
+	"Testis"	"28020"	"2002"	"2002"	92
+	"Testis"	"28020"	"2003"	"2003"	80
+	"Testis"	"28020"	"2004"	"2004"	99
+	"Testis"	"28020"	"2005"	"2005"	105
+	"Testis"	"28020"	"2006"	"2006"	89
+	"Testis"	"28020"	"2007"	"2007"	94
+	"Testis"	"28020"	"2008"	"2008"	115
+	"Testis"	"28020"	"2009"	"2009"	99
+	"Testis"	"28020"	"2010"	"2010"	111
+	"Testis"	"28020"	"2011"	"2011"	85
+	"Penis"	"28030"	"2000"	"2000"	17
+	"Penis"	"28030"	"2002"	"2002"	18
+	"Penis"	"28030"	"2003"	"2003"	16
+	"Penis"	"28030"	"2005"	"2005"	18
+	"Penis"	"28030"	"2006"	"2006"	24
+	"Penis"	"28030"	"2007"	"2007"	20
+	"Penis"	"28030"	"2008"	"2008"	24
+	"Penis"	"28030"	"2009"	"2009"	23
+	"Penis"	"28030"	"2010"	"2010"	18
+	"Penis"	"28030"	"2011"	"2011"	22
+	"Urinary System"	"29010-29040"	"2000"	"2000"	1251
+	"Urinary System"	"29010-29040"	"2001"	"2001"	1365
+	"Urinary System"	"29010-29040"	"2002"	"2002"	1474
+	"Urinary System"	"29010-29040"	"2003"	"2003"	1477
+	"Urinary System"	"29010-29040"	"2004"	"2004"	1571
+	"Urinary System"	"29010-29040"	"2005"	"2005"	1667
+	"Urinary System"	"29010-29040"	"2006"	"2006"	1657
+	"Urinary System"	"29010-29040"	"2007"	"2007"	1725
+	"Urinary System"	"29010-29040"	"2008"	"2008"	1832
+	"Urinary System"	"29010-29040"	"2009"	"2009"	1877
+	"Urinary System"	"29010-29040"	"2010"	"2010"	1944
+	"Urinary System"	"29010-29040"	"2011"	"2011"	1906
+	"Urinary Bladder, invasive and in situ"	"29010"	"2000"	"2000"	715
+	"Urinary Bladder, invasive and in situ"	"29010"	"2001"	"2001"	779
+	"Urinary Bladder, invasive and in situ"	"29010"	"2002"	"2002"	838
+	"Urinary Bladder, invasive and in situ"	"29010"	"2003"	"2003"	805
+	"Urinary Bladder, invasive and in situ"	"29010"	"2004"	"2004"	831
+	"Urinary Bladder, invasive and in situ"	"29010"	"2005"	"2005"	897
+	"Urinary Bladder, invasive and in situ"	"29010"	"2006"	"2006"	884
+	"Urinary Bladder, invasive and in situ"	"29010"	"2007"	"2007"	938
+	"Urinary Bladder, invasive and in situ"	"29010"	"2008"	"2008"	950
+	"Urinary Bladder, invasive and in situ"	"29010"	"2009"	"2009"	941
+	"Urinary Bladder, invasive and in situ"	"29010"	"2010"	"2010"	1029
+	"Urinary Bladder, invasive and in situ"	"29010"	"2011"	"2011"	1026
+	"Kidney and Renal Pelvis"	"29020"	"2000"	"2000"	492
+	"Kidney and Renal Pelvis"	"29020"	"2001"	"2001"	549
+	"Kidney and Renal Pelvis"	"29020"	"2002"	"2002"	611
+	"Kidney and Renal Pelvis"	"29020"	"2003"	"2003"	639
+	"Kidney and Renal Pelvis"	"29020"	"2004"	"2004"	705
+	"Kidney and Renal Pelvis"	"29020"	"2005"	"2005"	742
+	"Kidney and Renal Pelvis"	"29020"	"2006"	"2006"	727
+	"Kidney and Renal Pelvis"	"29020"	"2007"	"2007"	760
+	"Kidney and Renal Pelvis"	"29020"	"2008"	"2008"	829
+	"Kidney and Renal Pelvis"	"29020"	"2009"	"2009"	898
+	"Kidney and Renal Pelvis"	"29020"	"2010"	"2010"	865
+	"Kidney and Renal Pelvis"	"29020"	"2011"	"2011"	833
+	"Ureter"	"29030"	"2000"	"2000"	30
+	"Ureter"	"29030"	"2001"	"2001"	22
+	"Ureter"	"29030"	"2002"	"2002"	17
+	"Ureter"	"29030"	"2003"	"2003"	21
+	"Ureter"	"29030"	"2004"	"2004"	18
+	"Ureter"	"29030"	"2005"	"2005"	22
+	"Ureter"	"29030"	"2006"	"2006"	36
+	"Ureter"	"29030"	"2007"	"2007"	20
+	"Ureter"	"29030"	"2008"	"2008"	36
+	"Ureter"	"29030"	"2009"	"2009"	30
+	"Ureter"	"29030"	"2010"	"2010"	39
+	"Ureter"	"29030"	"2011"	"2011"	34
+	"Other Urinary Organs"	"29040"	"2004"	"2004"	17
+	"Other Urinary Organs"	"29040"	"2008"	"2008"	17
+	"Eye and Orbit"	"30000"	"2000"	"2000"	17
+	"Eye and Orbit"	"30000"	"2001"	"2001"	23
+	"Eye and Orbit"	"30000"	"2002"	"2002"	31
+	"Eye and Orbit"	"30000"	"2003"	"2003"	29
+	"Eye and Orbit"	"30000"	"2004"	"2004"	39
+	"Eye and Orbit"	"30000"	"2005"	"2005"	37
+	"Eye and Orbit"	"30000"	"2006"	"2006"	30
+	"Eye and Orbit"	"30000"	"2007"	"2007"	51
+	"Eye and Orbit"	"30000"	"2008"	"2008"	49
+	"Eye and Orbit"	"30000"	"2009"	"2009"	51
+	"Eye and Orbit"	"30000"	"2010"	"2010"	52
+	"Eye and Orbit"	"30000"	"2011"	"2011"	42
+	"Brain and Other Nervous System"	"31010-31040"	"2000"	"2000"	278
+	"Brain and Other Nervous System"	"31010-31040"	"2001"	"2001"	292
+	"Brain and Other Nervous System"	"31010-31040"	"2002"	"2002"	282
+	"Brain and Other Nervous System"	"31010-31040"	"2003"	"2003"	286
+	"Brain and Other Nervous System"	"31010-31040"	"2004"	"2004"	283
+	"Brain and Other Nervous System"	"31010-31040"	"2005"	"2005"	275
+	"Brain and Other Nervous System"	"31010-31040"	"2006"	"2006"	281
+	"Brain and Other Nervous System"	"31010-31040"	"2007"	"2007"	312
+	"Brain and Other Nervous System"	"31010-31040"	"2008"	"2008"	348
+	"Brain and Other Nervous System"	"31010-31040"	"2009"	"2009"	342
+	"Brain and Other Nervous System"	"31010-31040"	"2010"	"2010"	300
+	"Brain and Other Nervous System"	"31010-31040"	"2011"	"2011"	313
+	"Brain"	"31010"	"2000"	"2000"	258
+	"Brain"	"31010"	"2001"	"2001"	271
+	"Brain"	"31010"	"2002"	"2002"	257
+	"Brain"	"31010"	"2003"	"2003"	254
+	"Brain"	"31010"	"2004"	"2004"	259
+	"Brain"	"31010"	"2005"	"2005"	257
+	"Brain"	"31010"	"2006"	"2006"	268
+	"Brain"	"31010"	"2007"	"2007"	291
+	"Brain"	"31010"	"2008"	"2008"	324
+	"Brain"	"31010"	"2009"	"2009"	324
+	"Brain"	"31010"	"2010"	"2010"	288
+	"Brain"	"31010"	"2011"	"2011"	300
+	"Cranial Nerves Other Nervous System"	"31040"	"2000"	"2000"	20
+	"Cranial Nerves Other Nervous System"	"31040"	"2001"	"2001"	21
+	"Cranial Nerves Other Nervous System"	"31040"	"2002"	"2002"	25
+	"Cranial Nerves Other Nervous System"	"31040"	"2003"	"2003"	32
+	"Cranial Nerves Other Nervous System"	"31040"	"2004"	"2004"	24
+	"Cranial Nerves Other Nervous System"	"31040"	"2005"	"2005"	18
+	"Cranial Nerves Other Nervous System"	"31040"	"2007"	"2007"	21
+	"Cranial Nerves Other Nervous System"	"31040"	"2008"	"2008"	24
+	"Cranial Nerves Other Nervous System"	"31040"	"2009"	"2009"	18
+	"Endocrine System"	"32010-32020"	"2000"	"2000"	259
+	"Endocrine System"	"32010-32020"	"2001"	"2001"	272
+	"Endocrine System"	"32010-32020"	"2002"	"2002"	312
+	"Endocrine System"	"32010-32020"	"2003"	"2003"	329
+	"Endocrine System"	"32010-32020"	"2004"	"2004"	365
+	"Endocrine System"	"32010-32020"	"2005"	"2005"	350
+	"Endocrine System"	"32010-32020"	"2006"	"2006"	372
+	"Endocrine System"	"32010-32020"	"2007"	"2007"	410
+	"Endocrine System"	"32010-32020"	"2008"	"2008"	475
+	"Endocrine System"	"32010-32020"	"2009"	"2009"	435
+	"Endocrine System"	"32010-32020"	"2010"	"2010"	467
+	"Endocrine System"	"32010-32020"	"2011"	"2011"	486
+	"Thyroid"	"32010"	"2000"	"2000"	234
+	"Thyroid"	"32010"	"2001"	"2001"	242
+	"Thyroid"	"32010"	"2002"	"2002"	290
+	"Thyroid"	"32010"	"2003"	"2003"	305
+	"Thyroid"	"32010"	"2004"	"2004"	330
+	"Thyroid"	"32010"	"2005"	"2005"	331
+	"Thyroid"	"32010"	"2006"	"2006"	352
+	"Thyroid"	"32010"	"2007"	"2007"	389
+	"Thyroid"	"32010"	"2008"	"2008"	449
+	"Thyroid"	"32010"	"2009"	"2009"	405
+	"Thyroid"	"32010"	"2010"	"2010"	438
+	"Thyroid"	"32010"	"2011"	"2011"	466
+	"Other Endocrine including Thymus"	"32020"	"2000"	"2000"	25
+	"Other Endocrine including Thymus"	"32020"	"2001"	"2001"	30
+	"Other Endocrine including Thymus"	"32020"	"2002"	"2002"	22
+	"Other Endocrine including Thymus"	"32020"	"2003"	"2003"	24
+	"Other Endocrine including Thymus"	"32020"	"2004"	"2004"	35
+	"Other Endocrine including Thymus"	"32020"	"2005"	"2005"	19
+	"Other Endocrine including Thymus"	"32020"	"2006"	"2006"	20
+	"Other Endocrine including Thymus"	"32020"	"2007"	"2007"	21
+	"Other Endocrine including Thymus"	"32020"	"2008"	"2008"	26
+	"Other Endocrine including Thymus"	"32020"	"2009"	"2009"	30
+	"Other Endocrine including Thymus"	"32020"	"2010"	"2010"	29
+	"Other Endocrine including Thymus"	"32020"	"2011"	"2011"	20
+	"Lymphomas"	"33011-33042"	"2000"	"2000"	818
+	"Lymphomas"	"33011-33042"	"2001"	"2001"	858
+	"Lymphomas"	"33011-33042"	"2002"	"2002"	923
+	"Lymphomas"	"33011-33042"	"2003"	"2003"	876
+	"Lymphomas"	"33011-33042"	"2004"	"2004"	967
+	"Lymphomas"	"33011-33042"	"2005"	"2005"	988
+	"Lymphomas"	"33011-33042"	"2006"	"2006"	881
+	"Lymphomas"	"33011-33042"	"2007"	"2007"	950
+	"Lymphomas"	"33011-33042"	"2008"	"2008"	912
+	"Lymphomas"	"33011-33042"	"2009"	"2009"	977
+	"Lymphomas"	"33011-33042"	"2010"	"2010"	1013
+	"Lymphomas"	"33011-33042"	"2011"	"2011"	955
+	"Hodgkin Lymphoma"	"33011-33012"	"2000"	"2000"	110
+	"Hodgkin Lymphoma"	"33011-33012"	"2001"	"2001"	104
+	"Hodgkin Lymphoma"	"33011-33012"	"2002"	"2002"	118
+	"Hodgkin Lymphoma"	"33011-33012"	"2003"	"2003"	104
+	"Hodgkin Lymphoma"	"33011-33012"	"2004"	"2004"	106
+	"Hodgkin Lymphoma"	"33011-33012"	"2005"	"2005"	127
+	"Hodgkin Lymphoma"	"33011-33012"	"2006"	"2006"	108
+	"Hodgkin Lymphoma"	"33011-33012"	"2007"	"2007"	111
+	"Hodgkin Lymphoma"	"33011-33012"	"2008"	"2008"	123
+	"Hodgkin Lymphoma"	"33011-33012"	"2009"	"2009"	126
+	"Hodgkin Lymphoma"	"33011-33012"	"2010"	"2010"	112
+	"Hodgkin Lymphoma"	"33011-33012"	"2011"	"2011"	105
+	"Hodgkin - Nodal"	"33011"	"2000"	"2000"	103
+	"Hodgkin - Nodal"	"33011"	"2001"	"2001"	96
+	"Hodgkin - Nodal"	"33011"	"2002"	"2002"	112
+	"Hodgkin - Nodal"	"33011"	"2003"	"2003"	90
+	"Hodgkin - Nodal"	"33011"	"2004"	"2004"	101
+	"Hodgkin - Nodal"	"33011"	"2005"	"2005"	119
+	"Hodgkin - Nodal"	"33011"	"2006"	"2006"	106
+	"Hodgkin - Nodal"	"33011"	"2007"	"2007"	108
+	"Hodgkin - Nodal"	"33011"	"2008"	"2008"	112
+	"Hodgkin - Nodal"	"33011"	"2009"	"2009"	118
+	"Hodgkin - Nodal"	"33011"	"2010"	"2010"	101
+	"Hodgkin - Nodal"	"33011"	"2011"	"2011"	98
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2000"	"2000"	708
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2001"	"2001"	754
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2002"	"2002"	805
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2003"	"2003"	772
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2004"	"2004"	861
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2005"	"2005"	861
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2006"	"2006"	773
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2007"	"2007"	839
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2008"	"2008"	789
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2009"	"2009"	851
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2010"	"2010"	901
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2011"	"2011"	850
+	"NHL - Nodal"	"33041"	"2000"	"2000"	515
+	"NHL - Nodal"	"33041"	"2001"	"2001"	547
+	"NHL - Nodal"	"33041"	"2002"	"2002"	555
+	"NHL - Nodal"	"33041"	"2003"	"2003"	515
+	"NHL - Nodal"	"33041"	"2004"	"2004"	568
+	"NHL - Nodal"	"33041"	"2005"	"2005"	559
+	"NHL - Nodal"	"33041"	"2006"	"2006"	507
+	"NHL - Nodal"	"33041"	"2007"	"2007"	571
+	"NHL - Nodal"	"33041"	"2008"	"2008"	522
+	"NHL - Nodal"	"33041"	"2009"	"2009"	597
+	"NHL - Nodal"	"33041"	"2010"	"2010"	625
+	"NHL - Nodal"	"33041"	"2011"	"2011"	582
+	"NHL - Extranodal"	"33042"	"2000"	"2000"	193
+	"NHL - Extranodal"	"33042"	"2001"	"2001"	207
+	"NHL - Extranodal"	"33042"	"2002"	"2002"	250
+	"NHL - Extranodal"	"33042"	"2003"	"2003"	257
+	"NHL - Extranodal"	"33042"	"2004"	"2004"	293
+	"NHL - Extranodal"	"33042"	"2005"	"2005"	302
+	"NHL - Extranodal"	"33042"	"2006"	"2006"	266
+	"NHL - Extranodal"	"33042"	"2007"	"2007"	268
+	"NHL - Extranodal"	"33042"	"2008"	"2008"	267
+	"NHL - Extranodal"	"33042"	"2009"	"2009"	254
+	"NHL - Extranodal"	"33042"	"2010"	"2010"	276
+	"NHL - Extranodal"	"33042"	"2011"	"2011"	268
+	"Myeloma"	"34000"	"2000"	"2000"	255
+	"Myeloma"	"34000"	"2001"	"2001"	267
+	"Myeloma"	"34000"	"2002"	"2002"	274
+	"Myeloma"	"34000"	"2003"	"2003"	249
+	"Myeloma"	"34000"	"2004"	"2004"	346
+	"Myeloma"	"34000"	"2005"	"2005"	291
+	"Myeloma"	"34000"	"2006"	"2006"	282
+	"Myeloma"	"34000"	"2007"	"2007"	313
+	"Myeloma"	"34000"	"2008"	"2008"	296
+	"Myeloma"	"34000"	"2009"	"2009"	325
+	"Myeloma"	"34000"	"2010"	"2010"	366
+	"Myeloma"	"34000"	"2011"	"2011"	305
+	"Leukemias"	"35011-35043"	"2000"	"2000"	414
+	"Leukemias"	"35011-35043"	"2001"	"2001"	479
+	"Leukemias"	"35011-35043"	"2002"	"2002"	486
+	"Leukemias"	"35011-35043"	"2003"	"2003"	459
+	"Leukemias"	"35011-35043"	"2004"	"2004"	501
+	"Leukemias"	"35011-35043"	"2005"	"2005"	523
+	"Leukemias"	"35011-35043"	"2006"	"2006"	465
+	"Leukemias"	"35011-35043"	"2007"	"2007"	586
+	"Leukemias"	"35011-35043"	"2008"	"2008"	600
+	"Leukemias"	"35011-35043"	"2009"	"2009"	605
+	"Leukemias"	"35011-35043"	"2010"	"2010"	566
+	"Leukemias"	"35011-35043"	"2011"	"2011"	591
+	"Acute Lymphocytic Leukemia"	"35011"	"2000"	"2000"	26
+	"Acute Lymphocytic Leukemia"	"35011"	"2001"	"2001"	31
+	"Acute Lymphocytic Leukemia"	"35011"	"2002"	"2002"	27
+	"Acute Lymphocytic Leukemia"	"35011"	"2003"	"2003"	22
+	"Acute Lymphocytic Leukemia"	"35011"	"2004"	"2004"	24
+	"Acute Lymphocytic Leukemia"	"35011"	"2005"	"2005"	33
+	"Acute Lymphocytic Leukemia"	"35011"	"2006"	"2006"	35
+	"Acute Lymphocytic Leukemia"	"35011"	"2007"	"2007"	32
+	"Acute Lymphocytic Leukemia"	"35011"	"2008"	"2008"	37
+	"Acute Lymphocytic Leukemia"	"35011"	"2009"	"2009"	37
+	"Acute Lymphocytic Leukemia"	"35011"	"2010"	"2010"	46
+	"Acute Lymphocytic Leukemia"	"35011"	"2011"	"2011"	33
+	"Chronic Lymphocytic Leukemia"	"35012"	"2000"	"2000"	145
+	"Chronic Lymphocytic Leukemia"	"35012"	"2001"	"2001"	156
+	"Chronic Lymphocytic Leukemia"	"35012"	"2002"	"2002"	182
+	"Chronic Lymphocytic Leukemia"	"35012"	"2003"	"2003"	176
+	"Chronic Lymphocytic Leukemia"	"35012"	"2004"	"2004"	187
+	"Chronic Lymphocytic Leukemia"	"35012"	"2005"	"2005"	196
+	"Chronic Lymphocytic Leukemia"	"35012"	"2006"	"2006"	199
+	"Chronic Lymphocytic Leukemia"	"35012"	"2007"	"2007"	238
+	"Chronic Lymphocytic Leukemia"	"35012"	"2008"	"2008"	201
+	"Chronic Lymphocytic Leukemia"	"35012"	"2009"	"2009"	211
+	"Chronic Lymphocytic Leukemia"	"35012"	"2010"	"2010"	167
+	"Chronic Lymphocytic Leukemia"	"35012"	"2011"	"2011"	200
+	"Acute Myeloid Leukemia"	"35021"	"2000"	"2000"	112
+	"Acute Myeloid Leukemia"	"35021"	"2001"	"2001"	147
+	"Acute Myeloid Leukemia"	"35021"	"2002"	"2002"	141
+	"Acute Myeloid Leukemia"	"35021"	"2003"	"2003"	142
+	"Acute Myeloid Leukemia"	"35021"	"2004"	"2004"	161
+	"Acute Myeloid Leukemia"	"35021"	"2005"	"2005"	175
+	"Acute Myeloid Leukemia"	"35021"	"2006"	"2006"	126
+	"Acute Myeloid Leukemia"	"35021"	"2007"	"2007"	173
+	"Acute Myeloid Leukemia"	"35021"	"2008"	"2008"	190
+	"Acute Myeloid Leukemia"	"35021"	"2009"	"2009"	173
+	"Acute Myeloid Leukemia"	"35021"	"2010"	"2010"	176
+	"Acute Myeloid Leukemia"	"35021"	"2011"	"2011"	205
+	"Chronic Myeloid Leukemia"	"35022"	"2000"	"2000"	53
+	"Chronic Myeloid Leukemia"	"35022"	"2001"	"2001"	51
+	"Chronic Myeloid Leukemia"	"35022"	"2002"	"2002"	61
+	"Chronic Myeloid Leukemia"	"35022"	"2003"	"2003"	58
+	"Chronic Myeloid Leukemia"	"35022"	"2004"	"2004"	44
+	"Chronic Myeloid Leukemia"	"35022"	"2005"	"2005"	56
+	"Chronic Myeloid Leukemia"	"35022"	"2006"	"2006"	58
+	"Chronic Myeloid Leukemia"	"35022"	"2007"	"2007"	70
+	"Chronic Myeloid Leukemia"	"35022"	"2008"	"2008"	67
+	"Chronic Myeloid Leukemia"	"35022"	"2009"	"2009"	62
+	"Chronic Myeloid Leukemia"	"35022"	"2010"	"2010"	64
+	"Chronic Myeloid Leukemia"	"35022"	"2011"	"2011"	56
+	"Other Leukemias"	"35041-35043"	"2000"	"2000"	78
+	"Other Leukemias"	"35041-35043"	"2001"	"2001"	94
+	"Other Leukemias"	"35041-35043"	"2002"	"2002"	75
+	"Other Leukemias"	"35041-35043"	"2003"	"2003"	61
+	"Other Leukemias"	"35041-35043"	"2004"	"2004"	85
+	"Other Leukemias"	"35041-35043"	"2005"	"2005"	63
+	"Other Leukemias"	"35041-35043"	"2006"	"2006"	47
+	"Other Leukemias"	"35041-35043"	"2007"	"2007"	73
+	"Other Leukemias"	"35041-35043"	"2008"	"2008"	105
+	"Other Leukemias"	"35041-35043"	"2009"	"2009"	122
+	"Other Leukemias"	"35041-35043"	"2010"	"2010"	113
+	"Other Leukemias"	"35041-35043"	"2011"	"2011"	97
+	"Other Lymphocytic Leukemia"	"35013"	"2000"	"2000"	18
+	"Other Lymphocytic Leukemia"	"35013"	"2002"	"2002"	16
+	"Other Lymphocytic Leukemia"	"35013"	"2004"	"2004"	17
+	"Other Lymphocytic Leukemia"	"35013"	"2007"	"2007"	22
+	"Other Lymphocytic Leukemia"	"35013"	"2008"	"2008"	26
+	"Other Lymphocytic Leukemia"	"35013"	"2009"	"2009"	20
+	"Other Lymphocytic Leukemia"	"35013"	"2010"	"2010"	20
+	"Other Lymphocytic Leukemia"	"35013"	"2011"	"2011"	21
+	"Other Acute Leukemia"	"35041"	"2001"	"2001"	29
+	"Other Acute Leukemia"	"35041"	"2002"	"2002"	17
+	"Other Acute Leukemia"	"35041"	"2004"	"2004"	18
+	"Other Acute Leukemia"	"35041"	"2008"	"2008"	22
+	"Other Acute Leukemia"	"35041"	"2009"	"2009"	27
+	"Other Acute Leukemia"	"35041"	"2010"	"2010"	20
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2000"	"2000"	34
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2001"	"2001"	34
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2002"	"2002"	28
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2003"	"2003"	19
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2004"	"2004"	29
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2005"	"2005"	21
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2007"	"2007"	20
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2008"	"2008"	35
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2009"	"2009"	52
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2010"	"2010"	46
+	"Aleukemic, Subleukemic and NOS"	"35043"	"2011"	"2011"	44
+	"Other Myeloid/Monocytic Leukemia"	"35023"	"2003"	"2003"	16
+	"Other Myeloid/Monocytic Leukemia"	"35023"	"2009"	"2009"	17
+	"Other Myeloid/Monocytic Leukemia"	"35023"	"2010"	"2010"	17
+	"Mesothelioma"	"36010"	"2000"	"2000"	34
+	"Mesothelioma"	"36010"	"2001"	"2001"	38
+	"Mesothelioma"	"36010"	"2002"	"2002"	48
+	"Mesothelioma"	"36010"	"2003"	"2003"	30
+	"Mesothelioma"	"36010"	"2004"	"2004"	34
+	"Mesothelioma"	"36010"	"2005"	"2005"	42
+	"Mesothelioma"	"36010"	"2006"	"2006"	32
+	"Mesothelioma"	"36010"	"2007"	"2007"	53
+	"Mesothelioma"	"36010"	"2008"	"2008"	41
+	"Mesothelioma"	"36010"	"2009"	"2009"	55
+	"Mesothelioma"	"36010"	"2010"	"2010"	46
+	"Mesothelioma"	"36010"	"2011"	"2011"	43
+	"Kaposi Sarcoma"	"36020"	"2007"	"2007"	22
+	"Miscellaneous"	"37000"	"2000"	"2000"	626
+	"Miscellaneous"	"37000"	"2001"	"2001"	737
+	"Miscellaneous"	"37000"	"2002"	"2002"	833
+	"Miscellaneous"	"37000"	"2003"	"2003"	686
+	"Miscellaneous"	"37000"	"2004"	"2004"	786
+	"Miscellaneous"	"37000"	"2005"	"2005"	706
+	"Miscellaneous"	"37000"	"2006"	"2006"	734
+	"Miscellaneous"	"37000"	"2007"	"2007"	769
+	"Miscellaneous"	"37000"	"2008"	"2008"	839
+	"Miscellaneous"	"37000"	"2009"	"2009"	894
+	"Miscellaneous"	"37000"	"2010"	"2010"	815
+	"Miscellaneous"	"37000"	"2011"	"2011"	831
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2000"	"2000"	607
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2001"	"2001"	649
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2002"	"2002"	708
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2003"	"2003"	653
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2004"	"2004"	673
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2005"	"2005"	650
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2006"	"2006"	720
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2007"	"2007"	838
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2008"	"2008"	718
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2009"	"2009"	775
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2010"	"2010"	776
+	"In Situ Breast Cancer"	"Breast-InSitu"	"2011"	"2011"	766
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2000"	"2000"	600
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2001"	"2001"	643
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2002"	"2002"	703
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2003"	"2003"	647
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2004"	"2004"	671
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2005"	"2005"	641
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2006"	"2006"	717
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2007"	"2007"	835
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2008"	"2008"	712
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2009"	"2009"	768
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2010"	"2010"	765
+	"Female Breast, In Situ"	"Breast-InSitu-Female"	"2011"	"2011"	763
+"---"
+"Dataset: United States Cancer Statistics, 1999-2011 Incidence"
+"Query Parameters:"
+"Title:"
+"Age Group: 10-14 years, 15-19 years, 20-24 years, 25-29 years, 30-34 years, 35-39 years, 40-44 years, 45-49 years, 50-54 years,"
+"55-59 years, 60-64 years , 65-69 years, 70-74 years, 75-79 years, 80-84 years, 85+ years"
+"Cancer Sites: All"
+"Ethnicity: All"
+"Race: All"
+"Sex: All"
+"State: Alabama (01)"
+"Year: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011"
+"Group By: Cancer Sites, Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2011.html for more information."
+"---"
+"Query Date: Feb 17, 2015 6:51:29 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2011 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2014. Accessed at"
+"http://wonder.cdc.gov/cancer-v2011.html on Feb 17, 2015 6:51:29 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ Breast Cancers are listed separately from Breast Cancers and not included in the ""all sites"" category."
+"---"
+Caveats:
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. These states are missing data for the indicated year: Alabama 1999; Arkansas 1999-2000, 2002; District of Columbia 2001-2002;"
+"Maryland 2001; Mississippi 1999-2002; Nevada 1999, 2011; North Dakota 2001; South Dakota 1999-2000; Tennessee 1999-2003;"
+"Virginia 1999-2002."
+"3. Data are suppressed if fewer than 16 cases are reported in the specific category. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Georgia, Illinois,"
+"Kansas, Kentucky, Missouri, New Jersey, New York, and South Carolina; 2) Asian or Pacific Islander data are suppressed at the"
+"state level for Delaware, Illinois, Kansas, Kentucky, Missouri, and South Carolina; 3) Hispanic data are supressed at the state"
+"level for Delaware, Kentucky, Massachusetts, Missouri, Pennsylvania, and South Carolina. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2011.html#Confidentiality."
+"4. Gender-specific cancers will show 'Not Applicable' when the wrong sex is selected. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2011.html#Genital Cancers List."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria."
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
+"7. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
