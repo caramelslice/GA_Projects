@@ -29,4 +29,4 @@ d = OrderedDict(sorted(a_count.items(), key=itemgetter(1), reverse = 1))
 d
 ```
 
-Most parts of the analysis are done using count or sum. We probably could also look at the medians or means to help us understand the data better. Another thing we can consider is probably using feature scaling to scale the all values within a similar range. For example, code [43] shows the Total and DOT as the highest on the charts, but all other lines may be somewhat hard for the audience to trace and reach a conclusion. 
+Most parts of the analysis are done using count or sum. We probably could also look at the medians or means to help us understand the data better. Another thing we can consider is probably using feature scaling to scale the all values within a similar range. For example, code [43] shows the Total and DOT are the highest on the charts. All other lines may be somewhat hard for the audience to trace and reach a conclusion. 
