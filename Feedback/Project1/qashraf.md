@@ -8,13 +8,13 @@ Some sections include analysis some don't. It will be very helpful to include so
 ***Code***
 I have a feeling that you probably come from a OOP background and that you are probably a really good Python programmer. But there are a few places where we probably could have used the powerful Pandas' split, apply or combine functions to transform the data. 
 
-'''
+```
 data_311['Hour'] = [date.strftime('%H') for date in data_311['Created Date']]
 '''
 
 Also here, the Pandas sort function would be easier than the below code block. 
 
-'''
+```
 a_count={}
 for row in data_311.index:
    if data_311['Agency'][row] in a_count:
@@ -27,7 +27,6 @@ from collections import OrderedDict
 from operator import itemgetter
 d = OrderedDict(sorted(a_count.items(), key=itemgetter(1), reverse = 1))
 d
-'''
-
+```
 
 Most parts of the analysis are done using count or sum. We probably could also look at the medians or means to help us understand the data better. Another thing we can consider is probably using feature scaling to scale the all values within a similar range. For example, code [43] shows the Total and DOT as the highest on the charts, but all other lines may be somewhat hard for the audience to trace and reach a conclusion. 
