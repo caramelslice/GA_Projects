@@ -1,5 +1,5 @@
 This analysis is very well presented. 
-It coveres some good concept such as feature scaling and using dummy variables. Good visual data exploration from different sides of the dataset broken into property types, years, and data reported methods. 
+It uses some very good techniques such as feature scaling and using dummy variables. Good visual data exploration from different sides of the dataset by property types, years, and data reported methods. 
 
 
 A few suggestions:  
