@@ -20,5 +20,5 @@ I could not find the original pickle file in the data directory. So I can't be 1
 ```
 df['beer_name', 'cnt'].boxplot(by='beer_name')
 ```
-
+P.S. I found this [Beer Data](http://www.craftbeeranalytics.com/beer-data.html) while I was doing my project. I thought you'd be interested. 
 I look forward to reading your prediction about what people like and your recommendation about the new beer. 
