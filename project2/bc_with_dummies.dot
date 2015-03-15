@@ -1,0 +1,7 @@
+digraph Tree {
+0 [label="menopas_postmenopausal <= 0.5000\ngini = 0.00777149374747\nsamples = 2392998", shape="box"] ;
+1 [label="gini = 0.0047\nsamples = 750174\nvalue = [ 748416.    1758.]", shape="box"] ;
+0 -> 1 ;
+2 [label="gini = 0.0092\nsamples = 1642824\nvalue = [ 1635247.     7577.]", shape="box"] ;
+0 -> 2 ;
+}
